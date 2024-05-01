@@ -5,7 +5,7 @@
 </div>
 
 <h2>🚀 Demo</h2>
-[isha_kaur.portfolio.net](https://ishakaurportfolio.net/)
+https://ishakaurportfolio.net/
 
 # 📔 Table of Contents
 - [About the Project](#about-the-project)
