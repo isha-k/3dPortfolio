@@ -36,3 +36,18 @@ Here're some of the project's best features:
 | Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+
+## About the Project
+[Description of the project goes here]
+
+## Tech Stack
+[List of technologies used in the project]
+
+## Features
+[List of features offered by the project]
