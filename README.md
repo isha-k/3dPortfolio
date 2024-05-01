@@ -1,14 +1,26 @@
-<div align='center'>
+<h1 align="center" id="title">3D Portfolio</h1>
 
-<h1>3D Developer Portfolio using React + Three.js</h1>
-<p>Interactive 3D portfolio showcasing my skills and projects</p>
+<p align="center"><img src="https://github.com/isha-k/3dPortfolio/blob/main/homePage.png" alt="project-image"></p>
 
-![Home image](homePage.png)
+<p id="description">Interactive 3D portfolio created using React and Three.js which showcases my skills and projects</p>
 
-<h4> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/issues"> Request Feature </a> </h4>
+<h2>🚀 Demo</h2>
 
+[isha\_kaur.portfolio.net](isha_kaur.portfolio.net)
 
-</div>
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/isha-k/3dPortfolio/blob/main/homePage.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Maximising Tailwind.css
+*   Tailwind best practices for efficient code
+*   Tailwind Theming
 
 # :notebook_with_decorative_cover: Table of Contents
 
