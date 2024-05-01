@@ -1,6 +1,8 @@
 <h1 align="center" id="title">3D Portfolio</h1>
 
-<p align="center"><img src="https://github.com/isha-k/3dPortfolio/blob/main/homePage.png" alt="project-image"></p>
+<div align="center">
+  <img height="200" src="https://github.com/isha-k/3dPortfolio/blob/main/homePage.png"  />
+</div>
 
 <p id="description">Interactive 3D portfolio created using React and Three.js which showcases my skills and projects</p>
 
@@ -47,7 +49,23 @@ Here're some of the project's best features:
 [Description of the project goes here]
 
 ## Tech Stack
-[List of technologies used in the project]
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+</div>
 
 ## Features
 [List of features offered by the project]
+
+
