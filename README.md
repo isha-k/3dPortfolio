@@ -3,7 +3,7 @@
 <h1>3D Developer Portfolio using React + Three.js</h1>
 <p>Interactive 3D portfolio showcasing my skills and projects</p>
 
-![Home image](home.png)
+![Home image](homePage.png)
 
 <h4> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/isha-k/3dPortfolio/issues"> Request Feature </a> </h4>
 
